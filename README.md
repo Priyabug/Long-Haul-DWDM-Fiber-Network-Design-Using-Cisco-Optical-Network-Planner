@@ -15,3 +15,24 @@ Designed a scalable, high-capacity Dense Wavelength Division Multiplexing (DWDM)
 - 🔧 **Simulate amplifier placement** and **span loss compensation** for each fiber segment to ensure signal integrity across the entire route.
 
 - 📦 **Translate the design** into **vendor-aligned configurations** suitable for real-world deployment (e.g., TL1 commands, ROADM planning, and interface parameters).
+
+
+## 🛠️ Tools & Technologies
+
+- 🧠 **Cisco Optical Network Planner (ONP)**  
+  Used for professional-grade DWDM topology design and simulation.
+
+- 🐍 **GNPy (Gaussian Noise Python)**  
+  Open-source optical planner used to cross-verify span loss, OSNR, and reach.
+
+- 📦 **DWDM Line Cards & ROADMs** *(Simulated)*  
+  Emulated hardware configurations for realistic network modeling.
+
+- 📊 **Excel + Python**  
+  Utilized for optical power budgeting, loss calculations, and data validation.
+
+- 🌐 **ITU Grid Wavelength Planning**  
+  Applied ITU-T G.694.1 standards to allocate and manage channel spacing.
+
+- 📄 **TL1 Command Templates**  
+  Created for provisioning and simulating circuit turn-up in a vendor-aligned format.

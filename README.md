@@ -45,8 +45,7 @@ Successfully installed and launched **GNPy** using Docker:
 ```bash
 $ docker run -it --rm --volume $(pwd):/shared telecominfraproject/oopt-gnpy
 root@bea050f186f7:/shared/example-data#
-
-
+````
 
 ## 🧪 What You Can Simulate with GNPy
 

@@ -38,7 +38,7 @@ Designed a scalable, high-capacity Dense Wavelength Division Multiplexing (DWDM)
   Created for provisioning and simulating circuit turn-up in a vendor-aligned format.
 
 
-  ## 🐍 GNPy Installation Success
+  ## 🐍 🧪 GNPy (Gaussian Noise Python)
 
 Successfully installed and launched **GNPy** using Docker:
 

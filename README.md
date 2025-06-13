@@ -46,3 +46,20 @@ Successfully installed and launched **GNPy** using Docker:
 $ docker run -it --rm --volume $(pwd):/shared telecominfraproject/oopt-gnpy
 root@bea050f186f7:/shared/example-data#
 
+
+
+## 🧪 What You Can Simulate with GNPy
+
+GNPy empowers you to model and validate complex optical transport networks with features like:
+
+- 🔀 **Optical Channel Planning**  
+  Design wavelength routes across a DWDM network using standard ITU grid spacing.
+
+- 📉 **Span Loss Calculation**  
+  Accurately compute fiber attenuation over long-haul spans with customizable parameters.
+
+- 📊 **OSNR Degradation Analysis**  
+  Simulate the signal-to-noise ratio across spans to validate quality thresholds for 100G/400G.
+
+- ⚡ **Amplifier Placement Optimization**  
+  Determine the optimal positioning and gain settings of EDFAs or Raman amplifiers.

@@ -36,3 +36,13 @@ Designed a scalable, high-capacity Dense Wavelength Division Multiplexing (DWDM)
 
 - 📄 **TL1 Command Templates**  
   Created for provisioning and simulating circuit turn-up in a vendor-aligned format.
+
+
+  ## 🐍 GNPy Installation Success
+
+Successfully installed and launched **GNPy** using Docker:
+
+```bash
+$ docker run -it --rm --volume $(pwd):/shared telecominfraproject/oopt-gnpy
+root@bea050f186f7:/shared/example-data#
+
